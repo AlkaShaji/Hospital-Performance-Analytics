@@ -73,3 +73,7 @@ This project demonstrates the application of data cleaning, SQL querying, KPI an
 **Project Type:** Data Analytics  
 **Domain:** Healthcare  
 **Year:** 2025
+
+
+<img width="650" height="364" alt="image" src="https://github.com/user-attachments/assets/52fed6f5-3bc8-4a58-8c2c-5bd36b2baf31" />
+
